@@ -1,0 +1,180 @@
+---
+title: "Untitled"
+author: "Zachary Safir"
+date: "12/1/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+library(tidyverse)
+library(lubridate)
+```
+
+```{r}
+df = read_csv("https://raw.githubusercontent.com/zachsfr/DATA-608/main/data/GlobalLandTemperaturesByCountry.csv")
+```
+
+```{r} 
+df %>% filter(Country %in% c("Denmark","Denmark (Europe)")) %>%  mutate(Country ="Denmark"  ) %>% group_by(dt)  %>% summarise(mean=mean(AverageTemperature) )
+
+```
+
+
+```{r}
+df %>% filter(Country %in% c("Denmark","Denmark (Europe)")) %>% summary()
+```
+
+```{r}
+df %>% filter(Country %in% c("Denmark"))  %>% arrange(dt)
+```
+
+
+
+```{r}
+df %>% filter(Country %in% c("Denmark (Europe)")) %>% arrange(dt)
+```
+
+
+```{r}
+df_cont <- df %>% filter( Country %in% c('Antarctica', 'France', 'Europe', 'Netherlands','United Kingdom', 'Africa', 'South America',"North America",'Asia',"Oceania"))
+
+
+
+df <- df %>% filter( !Country %in% c( 'Antarctica','Europe', 'Africa', 'South America',"North America",'Asia',"Oceania",'Denmark (Europe)', 'France (Europe)', 'Netherlands (Europe)', 'United Kingdom (Europe)'))
+
+ df  <- df %>% mutate( Country =  plyr::mapvalues(Country,  c('Dominican Republic','Trinidad And Tobago','South Korea' ,'Laos', 'Burma', 'North Korea','Palestina','Timor Leste','Falkland Islands (Islas Malvinas)','Central African Republic',
+ 'Côte D\'Ivoire','Congo (Democratic Republic Of The)','Guinea Bissau','Equatorial Guinea','Western Sahara','Bosnia And Herzegovina','Czech Republic','Solomon Islands', 'French Southern And Antarctic Lands') , c('Dominican Rep.',
+ 'Trinidad and Tobago',
+ 'Korea',
+ 'Lao PDR',
+ 'Myanmar',
+ 'Dem. Rep. Korea',
+ 'Palestine',
+ 'Timor-Leste',
+ 'Falkland Is.',
+ 'Central African Rep.',
+ "CÃ´te d'Ivoire",
+ 'Dem. Rep. Congo',
+ 'Guinea-Bissau',
+ 'Eq. Guinea',
+ 'W. Sahara',
+ 'Bosnia and Herz.',
+ 'Czech Rep.',
+ 'Solomon Is.',
+ 'Fr. S. Antarctic Lands')  )   )  
+ 
+ df$year <- year(df$dt)
+
+ 
+
+```
+
+ 
+
+```{r}
+df
+```
+
+
+```{r}
+df %>% filter(Country=='Antarctica') %>% distinct(year)
+```
+
+
+```{r}
+df %>% group_by(Country) %>% filter(year>1820    )    %>% summarise( na_count = sum(is.na(AverageTemperature)))
+```
+
+
+```{r}
+df %>% group_by(Country) %>% summarise(avg= mean(AverageTemperature))
+```
+
+
+
+
+
+```{r}
+
+
+cleaned_up_data <- 
+df   %>%  group_by( Country)  %>%filter(  year > 1839 & year < 2010)   %>%  filter(complete.cases(AverageTemperature))  %>% 
+  mutate(decade = year -year %% 10)
+
+
+
+
+overall <-  cleaned_up_data  %>% group_by(decade)  %>% summarise(avg_wordwide = round(mean(AverageTemperature),2))  %>% mutate( pct_change =round( (avg_wordwide- lag(avg_wordwide))/ lag(avg_wordwide)  * 100,2 ), previous_decade = lag(avg_wordwide)    ) %>%
+  replace(is.na(.), 0) %>% ungroup() %>% filter(decade>1840)
+ 
+
+by_country <- cleaned_up_data  %>% group_by(Country,decade)  %>% summarise(avg_per_country= round(  mean(AverageTemperature),2 ))   %>% mutate( pct_change =  round((avg_per_country- lag(avg_per_country))/ lag(avg_per_country)  * 100  ,2),previous_decade = lag(avg_per_country)  )  %>%
+  replace(is.na(.), 0)  %>% ungroup() %>% filter(decade>1840)
+ 
+ avg_pct_change <- by_country %>% group_by(decade) %>% summarise(avg_pct_change= mean(pct_change))
+
+
+
+```
+
+
+```{r}
+by_country  %>% filter(str_detect(Country ,"Ec"))
+```
+
+ 
+```{r}
+overall
+
+
+
+```
+
+
+```{r}
+write_csv(overall,"data/world_avg.csv")
+
+write_csv(by_country,"data/country_avg.csv")
+```
+
+```{r}
+df   %>% distinct(Continent)
+```
+
+
+
+```{r}
+df$Year <- year(df$dt)
+df$Month <- month(df$dt,label = T)
+
+```
+
+
+
+```{r}
+df %>% filter(Year >=1800) %>% filter(complete.cases(AverageTemperature)) %>% group_by(Continent,Year) %>% summarise(avg= mean(AverageTemperature))  %>% ggplot(aes(x=Year,y=avg,color =Continent)) + geom_line()
+```
+
+
+
+```{r}
+df_ts <- ts(df)
+
+
+
+```
+
+
+```{r}
+
+df_alt <- df %>% filter(Continent=="Europe & Central Asia")   %>%  filter(Year >=1800) %>% filter(complete.cases(AverageTemperature)) %>% group_by(Year) %>% summarise(avg= mean(AverageTemperature)) 
+ 
+```
+
+ 
+
