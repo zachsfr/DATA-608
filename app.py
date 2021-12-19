@@ -32,7 +32,7 @@ geo_dic = pickle.load(a_file)
 
 fig = px.choropleth_mapbox(country_df, geojson= geo_dic, locations= 'Country', color= 'pct_change',
                        color_continuous_scale='balance',animation_frame = 'decade',
-                        range_color=(-15, 10),
+                        range_color=(-5, 5),
                         hover_name='Country',
                         hover_data={'pct_change': True, 'Country': True,'avg_per_country':True,'previous_decade':True},
                         mapbox_style='carto-positron',
