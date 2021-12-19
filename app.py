@@ -53,7 +53,7 @@ app.layout = html.Div([
     html.Div(
         className="header",
         children=[
-        html.H1('Temperatue Change Per Decade'),
+        html.H1('Temperature Change From Decade to Decade'),
         ],
     ),
     
