@@ -34,7 +34,7 @@ fig = px.choropleth_mapbox(country_df, geojson= geo_dic, locations= 'Country', c
                        color_continuous_scale='balance',animation_frame = 'decade',
                         range_color=(-5, 5),
                         hover_name='Country',
-                        hover_data={'pct_change': True, 'Country': True,'avg_per_country':True,'previous_decade':True,'start':True'change_start':True},
+                        hover_data={'pct_change': True, 'Country': True,'avg_per_country':True,'previous_decade':True,'start':True,'change_start':True},
                         mapbox_style='carto-positron',
                         zoom=1,
                         center={'lat': 19, 'lon': 11},
