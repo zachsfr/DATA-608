@@ -430,22 +430,22 @@ Bolivia,2000,21.33,-0.65,21.47
 "Bonaire, Saint Eustatius And Saba",1980,27.61,0.73,27.41
 "Bonaire, Saint Eustatius And Saba",1990,27.78,0.62,27.61
 "Bonaire, Saint Eustatius And Saba",2000,27.94,0.58,27.78
-Bosnia and Herz.,1850,10.02,-1.86,10.21
-Bosnia and Herz.,1860,10.41,3.89,10.02
-Bosnia and Herz.,1870,10.02,-3.75,10.41
-Bosnia and Herz.,1880,10.04,0.2,10.02
-Bosnia and Herz.,1890,10.06,0.2,10.04
-Bosnia and Herz.,1900,10.19,1.29,10.06
-Bosnia and Herz.,1910,10.26,0.69,10.19
-Bosnia and Herz.,1920,10.59,3.22,10.26
-Bosnia and Herz.,1930,10.64,0.47,10.59
-Bosnia and Herz.,1940,10.47,-1.6,10.64
-Bosnia and Herz.,1950,10.78,2.96,10.47
-Bosnia and Herz.,1960,10.55,-2.13,10.78
-Bosnia and Herz.,1970,10.51,-0.38,10.55
-Bosnia and Herz.,1980,10.59,0.76,10.51
-Bosnia and Herz.,1990,11.07,4.53,10.59
-Bosnia and Herz.,2000,11.52,4.07,11.07
+Bosnia And Herzegovina,1850,10.02,-1.86,10.21
+Bosnia And Herzegovina,1860,10.41,3.89,10.02
+Bosnia And Herzegovina,1870,10.02,-3.75,10.41
+Bosnia And Herzegovina,1880,10.04,0.2,10.02
+Bosnia And Herzegovina,1890,10.06,0.2,10.04
+Bosnia And Herzegovina,1900,10.19,1.29,10.06
+Bosnia And Herzegovina,1910,10.26,0.69,10.19
+Bosnia And Herzegovina,1920,10.59,3.22,10.26
+Bosnia And Herzegovina,1930,10.64,0.47,10.59
+Bosnia And Herzegovina,1940,10.47,-1.6,10.64
+Bosnia And Herzegovina,1950,10.78,2.96,10.47
+Bosnia And Herzegovina,1960,10.55,-2.13,10.78
+Bosnia And Herzegovina,1970,10.51,-0.38,10.55
+Bosnia And Herzegovina,1980,10.59,0.76,10.51
+Bosnia And Herzegovina,1990,11.07,4.53,10.59
+Bosnia And Herzegovina,2000,11.52,4.07,11.07
 Botswana,1850,21.3,0,0
 Botswana,1860,21.49,0.89,21.3
 Botswana,1870,21.39,-0.47,21.49
@@ -526,6 +526,22 @@ Burkina Faso,1970,28.28,0.57,28.12
 Burkina Faso,1980,28.51,0.81,28.28
 Burkina Faso,1990,28.53,0.07,28.51
 Burkina Faso,2000,28.89,1.26,28.53
+Burma,1850,23.36,0.86,23.16
+Burma,1860,23.2,-0.68,23.36
+Burma,1870,23.47,1.16,23.2
+Burma,1880,23.42,-0.21,23.47
+Burma,1890,23.55,0.56,23.42
+Burma,1900,23.62,0.3,23.55
+Burma,1910,23.54,-0.34,23.62
+Burma,1920,23.76,0.93,23.54
+Burma,1930,23.82,0.25,23.76
+Burma,1940,23.94,0.5,23.82
+Burma,1950,23.99,0.21,23.94
+Burma,1960,24.03,0.17,23.99
+Burma,1970,23.98,-0.21,24.03
+Burma,1980,24.12,0.58,23.98
+Burma,1990,24.12,0,24.12
+Burma,2000,24.3,0.75,24.12
 Burundi,1850,19.46,0,0
 Burundi,1860,19.34,-0.62,19.46
 Burundi,1870,19.8,2.38,19.34
@@ -542,22 +558,6 @@ Burundi,1970,20.14,0.6,20.02
 Burundi,1980,20.48,1.69,20.14
 Burundi,1990,20.54,0.29,20.48
 Burundi,2000,20.82,1.36,20.54
-CÃ´te d'Ivoire,1850,25.38,-0.04,25.39
-CÃ´te d'Ivoire,1860,25.37,-0.04,25.38
-CÃ´te d'Ivoire,1870,25.35,-0.08,25.37
-CÃ´te d'Ivoire,1880,25.46,0.43,25.35
-CÃ´te d'Ivoire,1890,25.29,-0.67,25.46
-CÃ´te d'Ivoire,1900,25.53,0.95,25.29
-CÃ´te d'Ivoire,1910,25.93,1.57,25.53
-CÃ´te d'Ivoire,1920,26.01,0.31,25.93
-CÃ´te d'Ivoire,1930,26.03,0.08,26.01
-CÃ´te d'Ivoire,1940,26.19,0.61,26.03
-CÃ´te d'Ivoire,1950,25.98,-0.8,26.19
-CÃ´te d'Ivoire,1960,26.07,0.35,25.98
-CÃ´te d'Ivoire,1970,26.12,0.19,26.07
-CÃ´te d'Ivoire,1980,26.38,1,26.12
-CÃ´te d'Ivoire,1990,26.44,0.23,26.38
-CÃ´te d'Ivoire,2000,26.8,1.36,26.44
 Cambodia,1850,26.23,0.42,26.12
 Cambodia,1860,26.16,-0.27,26.23
 Cambodia,1870,26.29,0.5,26.16
@@ -590,22 +590,22 @@ Cameroon,1970,24.5,0.33,24.42
 Cameroon,1980,24.53,0.12,24.5
 Cameroon,1990,24.75,0.9,24.53
 Cameroon,2000,25.07,1.29,24.75
-Canada,1850,-5.59,-2.44,-5.73
-Canada,1860,-5.72,2.33,-5.59
-Canada,1870,-5.33,-6.82,-5.72
-Canada,1880,-6.03,13.13,-5.33
-Canada,1890,-5.85,-2.99,-6.03
-Canada,1900,-5.43,-7.18,-5.85
-Canada,1910,-5.47,0.74,-5.43
-Canada,1920,-5.09,-6.95,-5.47
-Canada,1930,-4.95,-2.75,-5.09
-Canada,1940,-4.54,-8.28,-4.95
-Canada,1950,-4.91,8.15,-4.54
-Canada,1960,-4.95,0.81,-4.91
-Canada,1970,-5.05,2.02,-4.95
-Canada,1980,-4.48,-11.29,-5.05
-Canada,1990,-4.24,-5.36,-4.48
-Canada,2000,-3.85,-9.2,-4.24
+Canada,1850,-5.59,2.44,-5.73
+Canada,1860,-5.72,-2.33,-5.59
+Canada,1870,-5.33,6.82,-5.72
+Canada,1880,-6.03,-13.13,-5.33
+Canada,1890,-5.85,2.99,-6.03
+Canada,1900,-5.43,7.18,-5.85
+Canada,1910,-5.47,-0.74,-5.43
+Canada,1920,-5.09,6.95,-5.47
+Canada,1930,-4.95,2.75,-5.09
+Canada,1940,-4.54,8.28,-4.95
+Canada,1950,-4.91,-8.15,-4.54
+Canada,1960,-4.95,-0.81,-4.91
+Canada,1970,-5.05,-2.02,-4.95
+Canada,1980,-4.48,11.29,-5.05
+Canada,1990,-4.24,5.36,-4.48
+Canada,2000,-3.85,9.2,-4.24
 Cape Verde,1850,23.68,0.21,23.63
 Cape Verde,1860,23.61,-0.3,23.68
 Cape Verde,1870,23.92,1.31,23.61
@@ -638,22 +638,22 @@ Cayman Islands,1970,26.94,0.3,26.86
 Cayman Islands,1980,27.13,0.71,26.94
 Cayman Islands,1990,27.41,1.03,27.13
 Cayman Islands,2000,27.49,0.29,27.41
-Central African Rep.,1850,24.64,0,0
-Central African Rep.,1860,24.86,0.89,24.64
-Central African Rep.,1870,24.91,0.2,24.86
-Central African Rep.,1880,24.66,-1,24.91
-Central African Rep.,1890,24.8,0.57,24.66
-Central African Rep.,1900,24.92,0.48,24.8
-Central African Rep.,1910,25.09,0.68,24.92
-Central African Rep.,1920,25.16,0.28,25.09
-Central African Rep.,1930,25.52,1.43,25.16
-Central African Rep.,1940,25.54,0.08,25.52
-Central African Rep.,1950,25.33,-0.82,25.54
-Central African Rep.,1960,25.25,-0.32,25.33
-Central African Rep.,1970,25.4,0.59,25.25
-Central African Rep.,1980,25.47,0.28,25.4
-Central African Rep.,1990,25.7,0.9,25.47
-Central African Rep.,2000,26.04,1.32,25.7
+Central African Republic,1850,24.64,0,0
+Central African Republic,1860,24.86,0.89,24.64
+Central African Republic,1870,24.91,0.2,24.86
+Central African Republic,1880,24.66,-1,24.91
+Central African Republic,1890,24.8,0.57,24.66
+Central African Republic,1900,24.92,0.48,24.8
+Central African Republic,1910,25.09,0.68,24.92
+Central African Republic,1920,25.16,0.28,25.09
+Central African Republic,1930,25.52,1.43,25.16
+Central African Republic,1940,25.54,0.08,25.52
+Central African Republic,1950,25.33,-0.82,25.54
+Central African Republic,1960,25.25,-0.32,25.33
+Central African Republic,1970,25.4,0.59,25.25
+Central African Republic,1980,25.47,0.28,25.4
+Central African Republic,1990,25.7,0.9,25.47
+Central African Republic,2000,26.04,1.32,25.7
 Chad,1850,26.65,0,0
 Chad,1860,26.14,-1.91,26.65
 Chad,1870,26.74,2.3,26.14
@@ -766,6 +766,22 @@ Congo,1970,24.58,0.16,24.54
 Congo,1980,24.71,0.53,24.58
 Congo,1990,24.88,0.69,24.71
 Congo,2000,25.12,0.96,24.88
+Congo (Democratic Republic Of The),1850,23.19,0,0
+Congo (Democratic Republic Of The),1860,23.15,-0.17,23.19
+Congo (Democratic Republic Of The),1870,23.36,0.91,23.15
+Congo (Democratic Republic Of The),1880,23.17,-0.81,23.36
+Congo (Democratic Republic Of The),1890,23.36,0.82,23.17
+Congo (Democratic Republic Of The),1900,23.47,0.47,23.36
+Congo (Democratic Republic Of The),1910,23.59,0.51,23.47
+Congo (Democratic Republic Of The),1920,23.69,0.42,23.59
+Congo (Democratic Republic Of The),1930,23.82,0.55,23.69
+Congo (Democratic Republic Of The),1940,23.98,0.67,23.82
+Congo (Democratic Republic Of The),1950,23.8,-0.75,23.98
+Congo (Democratic Republic Of The),1960,23.76,-0.17,23.8
+Congo (Democratic Republic Of The),1970,23.89,0.55,23.76
+Congo (Democratic Republic Of The),1980,24.12,0.96,23.89
+Congo (Democratic Republic Of The),1990,24.27,0.62,24.12
+Congo (Democratic Republic Of The),2000,24.49,0.91,24.27
 Costa Rica,1850,25.06,0,0
 Costa Rica,1860,25.16,0.4,25.06
 Costa Rica,1870,25.39,0.91,25.16
@@ -782,6 +798,22 @@ Costa Rica,1970,25.76,0.04,25.75
 Costa Rica,1980,26.02,1.01,25.76
 Costa Rica,1990,26.36,1.31,26.02
 Costa Rica,2000,26.35,-0.04,26.36
+Côte D'Ivoire,1850,25.38,-0.04,25.39
+Côte D'Ivoire,1860,25.37,-0.04,25.38
+Côte D'Ivoire,1870,25.35,-0.08,25.37
+Côte D'Ivoire,1880,25.46,0.43,25.35
+Côte D'Ivoire,1890,25.29,-0.67,25.46
+Côte D'Ivoire,1900,25.53,0.95,25.29
+Côte D'Ivoire,1910,25.93,1.57,25.53
+Côte D'Ivoire,1920,26.01,0.31,25.93
+Côte D'Ivoire,1930,26.03,0.08,26.01
+Côte D'Ivoire,1940,26.19,0.61,26.03
+Côte D'Ivoire,1950,25.98,-0.8,26.19
+Côte D'Ivoire,1960,26.07,0.35,25.98
+Côte D'Ivoire,1970,26.12,0.19,26.07
+Côte D'Ivoire,1980,26.38,1,26.12
+Côte D'Ivoire,1990,26.44,0.23,26.38
+Côte D'Ivoire,2000,26.8,1.36,26.44
 Croatia,1850,10.92,-1.8,11.12
 Croatia,1860,11.36,4.03,10.92
 Croatia,1870,10.91,-3.96,11.36
@@ -846,70 +878,54 @@ Cyprus,1970,18.99,-1.35,19.25
 Cyprus,1980,18.95,-0.21,18.99
 Cyprus,1990,19.25,1.58,18.95
 Cyprus,2000,19.79,2.81,19.25
-Czech Rep.,1850,7.17,-1.38,7.27
-Czech Rep.,1860,7.68,7.11,7.17
-Czech Rep.,1870,7.15,-6.9,7.68
-Czech Rep.,1880,7.22,0.98,7.15
-Czech Rep.,1890,7.31,1.25,7.22
-Czech Rep.,1900,7.41,1.37,7.31
-Czech Rep.,1910,7.64,3.1,7.41
-Czech Rep.,1920,7.6,-0.52,7.64
-Czech Rep.,1930,7.91,4.08,7.6
-Czech Rep.,1940,7.59,-4.05,7.91
-Czech Rep.,1950,7.78,2.5,7.59
-Czech Rep.,1960,7.71,-0.9,7.78
-Czech Rep.,1970,7.92,2.72,7.71
-Czech Rep.,1980,7.91,-0.13,7.92
-Czech Rep.,1990,8.44,6.7,7.91
-Czech Rep.,2000,8.97,6.28,8.44
-Dem. Rep. Congo,1850,23.19,0,0
-Dem. Rep. Congo,1860,23.15,-0.17,23.19
-Dem. Rep. Congo,1870,23.36,0.91,23.15
-Dem. Rep. Congo,1880,23.17,-0.81,23.36
-Dem. Rep. Congo,1890,23.36,0.82,23.17
-Dem. Rep. Congo,1900,23.47,0.47,23.36
-Dem. Rep. Congo,1910,23.59,0.51,23.47
-Dem. Rep. Congo,1920,23.69,0.42,23.59
-Dem. Rep. Congo,1930,23.82,0.55,23.69
-Dem. Rep. Congo,1940,23.98,0.67,23.82
-Dem. Rep. Congo,1950,23.8,-0.75,23.98
-Dem. Rep. Congo,1960,23.76,-0.17,23.8
-Dem. Rep. Congo,1970,23.89,0.55,23.76
-Dem. Rep. Congo,1980,24.12,0.96,23.89
-Dem. Rep. Congo,1990,24.27,0.62,24.12
-Dem. Rep. Congo,2000,24.49,0.91,24.27
-Dem. Rep. Korea,1850,6.13,-3.16,6.33
-Dem. Rep. Korea,1860,6.23,1.63,6.13
-Dem. Rep. Korea,1870,6.43,3.21,6.23
-Dem. Rep. Korea,1880,6.22,-3.27,6.43
-Dem. Rep. Korea,1890,6.61,6.27,6.22
-Dem. Rep. Korea,1900,6.55,-0.91,6.61
-Dem. Rep. Korea,1910,6.26,-4.43,6.55
-Dem. Rep. Korea,1920,6.57,4.95,6.26
-Dem. Rep. Korea,1930,6.77,3.04,6.57
-Dem. Rep. Korea,1940,6.73,-0.59,6.77
-Dem. Rep. Korea,1950,6.88,2.23,6.73
-Dem. Rep. Korea,1960,6.92,0.58,6.88
-Dem. Rep. Korea,1970,7.07,2.17,6.92
-Dem. Rep. Korea,1980,7.07,0,7.07
-Dem. Rep. Korea,1990,7.85,11.03,7.07
-Dem. Rep. Korea,2000,7.95,1.27,7.85
-Denmark,1850,-18.49,0.22,-18.45
-Denmark,1860,-18.81,1.73,-18.49
-Denmark,1870,-18.12,-3.67,-18.81
-Denmark,1880,-19.12,5.52,-18.12
-Denmark,1890,-19.07,-0.26,-19.12
-Denmark,1900,-18.43,-3.36,-19.07
-Denmark,1910,-18.67,1.3,-18.43
-Denmark,1920,-17.72,-5.09,-18.67
-Denmark,1930,-16.74,-5.53,-17.72
-Denmark,1940,-17.33,3.52,-16.74
-Denmark,1950,-17.69,2.08,-17.33
-Denmark,1960,-17.71,0.11,-17.69
-Denmark,1970,-18.21,2.82,-17.71
-Denmark,1980,-18.09,-0.66,-18.21
-Denmark,1990,-17.78,-1.71,-18.09
-Denmark,2000,-16.51,-7.14,-17.78
+Czech Republic,1850,7.17,-1.38,7.27
+Czech Republic,1860,7.68,7.11,7.17
+Czech Republic,1870,7.15,-6.9,7.68
+Czech Republic,1880,7.22,0.98,7.15
+Czech Republic,1890,7.31,1.25,7.22
+Czech Republic,1900,7.41,1.37,7.31
+Czech Republic,1910,7.64,3.1,7.41
+Czech Republic,1920,7.6,-0.52,7.64
+Czech Republic,1930,7.91,4.08,7.6
+Czech Republic,1940,7.59,-4.05,7.91
+Czech Republic,1950,7.78,2.5,7.59
+Czech Republic,1960,7.71,-0.9,7.78
+Czech Republic,1970,7.92,2.72,7.71
+Czech Republic,1980,7.91,-0.13,7.92
+Czech Republic,1990,8.44,6.7,7.91
+Czech Republic,2000,8.97,6.28,8.44
+Denmark,1850,-18.49,-0.22,-18.45
+Denmark,1860,-18.81,-1.73,-18.49
+Denmark,1870,-18.12,3.67,-18.81
+Denmark,1880,-19.12,-5.52,-18.12
+Denmark,1890,-19.07,0.26,-19.12
+Denmark,1900,-18.43,3.36,-19.07
+Denmark,1910,-18.67,-1.3,-18.43
+Denmark,1920,-17.72,5.09,-18.67
+Denmark,1930,-16.74,5.53,-17.72
+Denmark,1940,-17.33,-3.52,-16.74
+Denmark,1950,-17.69,-2.08,-17.33
+Denmark,1960,-17.71,-0.11,-17.69
+Denmark,1970,-18.21,-2.82,-17.71
+Denmark,1980,-18.09,0.66,-18.21
+Denmark,1990,-17.78,1.71,-18.09
+Denmark,2000,-16.51,7.14,-17.78
+Denmark (Europe),1850,7.57,0.8,7.51
+Denmark (Europe),1860,7.64,0.92,7.57
+Denmark (Europe),1870,7.41,-3.01,7.64
+Denmark (Europe),1880,7.46,0.67,7.41
+Denmark (Europe),1890,7.73,3.62,7.46
+Denmark (Europe),1900,7.63,-1.29,7.73
+Denmark (Europe),1910,7.96,4.33,7.63
+Denmark (Europe),1920,7.68,-3.52,7.96
+Denmark (Europe),1930,8.45,10.03,7.68
+Denmark (Europe),1940,7.89,-6.63,8.45
+Denmark (Europe),1950,7.99,1.27,7.89
+Denmark (Europe),1960,7.8,-2.38,7.99
+Denmark (Europe),1970,8.13,4.23,7.8
+Denmark (Europe),1980,8.04,-1.11,8.13
+Denmark (Europe),1990,8.73,8.58,8.04
+Denmark (Europe),2000,9.3,6.53,8.73
 Djibouti,1860,28.24,0,0
 Djibouti,1870,28.69,1.59,28.24
 Djibouti,1880,28.46,-0.8,28.69
@@ -941,22 +957,22 @@ Dominica,1970,26.28,-0.42,26.39
 Dominica,1980,26.54,0.99,26.28
 Dominica,1990,26.77,0.87,26.54
 Dominica,2000,26.95,0.67,26.77
-Dominican Rep.,1850,25.14,0.6,24.99
-Dominican Rep.,1860,25.19,0.2,25.14
-Dominican Rep.,1870,25.37,0.71,25.19
-Dominican Rep.,1880,25.07,-1.18,25.37
-Dominican Rep.,1890,25.24,0.68,25.07
-Dominican Rep.,1900,25.37,0.52,25.24
-Dominican Rep.,1910,25.27,-0.39,25.37
-Dominican Rep.,1920,25.47,0.79,25.27
-Dominican Rep.,1930,25.56,0.35,25.47
-Dominican Rep.,1940,25.77,0.82,25.56
-Dominican Rep.,1950,25.69,-0.31,25.77
-Dominican Rep.,1960,25.82,0.51,25.69
-Dominican Rep.,1970,25.69,-0.5,25.82
-Dominican Rep.,1980,26.05,1.4,25.69
-Dominican Rep.,1990,26.21,0.61,26.05
-Dominican Rep.,2000,26.41,0.76,26.21
+Dominican Republic,1850,25.14,0.6,24.99
+Dominican Republic,1860,25.19,0.2,25.14
+Dominican Republic,1870,25.37,0.71,25.19
+Dominican Republic,1880,25.07,-1.18,25.37
+Dominican Republic,1890,25.24,0.68,25.07
+Dominican Republic,1900,25.37,0.52,25.24
+Dominican Republic,1910,25.27,-0.39,25.37
+Dominican Republic,1920,25.47,0.79,25.27
+Dominican Republic,1930,25.56,0.35,25.47
+Dominican Republic,1940,25.77,0.82,25.56
+Dominican Republic,1950,25.69,-0.31,25.77
+Dominican Republic,1960,25.82,0.51,25.69
+Dominican Republic,1970,25.69,-0.5,25.82
+Dominican Republic,1980,26.05,1.4,25.69
+Dominican Republic,1990,26.21,0.61,26.05
+Dominican Republic,2000,26.41,0.76,26.21
 Ecuador,1860,21.56,0,0
 Ecuador,1880,21.13,-1.99,21.56
 Ecuador,1890,21.34,0.99,21.13
@@ -1003,22 +1019,22 @@ El Salvador,1970,25.17,0.44,25.06
 El Salvador,1980,25.34,0.68,25.17
 El Salvador,1990,25.71,1.46,25.34
 El Salvador,2000,25.6,-0.43,25.71
-Eq. Guinea,1850,24.31,0,0
-Eq. Guinea,1860,24.47,0.66,24.31
-Eq. Guinea,1870,24.45,-0.08,24.47
-Eq. Guinea,1880,24.28,-0.7,24.45
-Eq. Guinea,1890,24.2,-0.33,24.28
-Eq. Guinea,1900,24.44,0.99,24.2
-Eq. Guinea,1910,24.82,1.55,24.44
-Eq. Guinea,1920,24.92,0.4,24.82
-Eq. Guinea,1930,25.16,0.96,24.92
-Eq. Guinea,1940,25.29,0.52,25.16
-Eq. Guinea,1950,24.98,-1.23,25.29
-Eq. Guinea,1960,25.06,0.32,24.98
-Eq. Guinea,1970,25.04,-0.08,25.06
-Eq. Guinea,1980,25.14,0.4,25.04
-Eq. Guinea,1990,25.34,0.8,25.14
-Eq. Guinea,2000,25.6,1.03,25.34
+Equatorial Guinea,1850,24.31,0,0
+Equatorial Guinea,1860,24.47,0.66,24.31
+Equatorial Guinea,1870,24.45,-0.08,24.47
+Equatorial Guinea,1880,24.28,-0.7,24.45
+Equatorial Guinea,1890,24.2,-0.33,24.28
+Equatorial Guinea,1900,24.44,0.99,24.2
+Equatorial Guinea,1910,24.82,1.55,24.44
+Equatorial Guinea,1920,24.92,0.4,24.82
+Equatorial Guinea,1930,25.16,0.96,24.92
+Equatorial Guinea,1940,25.29,0.52,25.16
+Equatorial Guinea,1950,24.98,-1.23,25.29
+Equatorial Guinea,1960,25.06,0.32,24.98
+Equatorial Guinea,1970,25.04,-0.08,25.06
+Equatorial Guinea,1980,25.14,0.4,25.04
+Equatorial Guinea,1990,25.34,0.8,25.14
+Equatorial Guinea,2000,25.6,1.03,25.34
 Eritrea,1860,26.35,0,0
 Eritrea,1870,26.57,0.83,26.35
 Eritrea,1880,26.41,-0.6,26.57
@@ -1066,21 +1082,21 @@ Ethiopia,1970,23.08,0.79,22.9
 Ethiopia,1980,23.28,0.87,23.08
 Ethiopia,1990,23.35,0.3,23.28
 Ethiopia,2000,23.82,2.01,23.35
-Falkland Is.,1860,5.68,0,0
-Falkland Is.,1870,5.66,-0.35,5.68
-Falkland Is.,1880,5.36,-5.3,5.66
-Falkland Is.,1890,5.76,7.46,5.36
-Falkland Is.,1900,5.74,-0.35,5.76
-Falkland Is.,1910,6,4.53,5.74
-Falkland Is.,1920,5.8,-3.33,6
-Falkland Is.,1930,5.83,0.52,5.8
-Falkland Is.,1940,6.32,8.4,5.83
-Falkland Is.,1950,6.14,-2.85,6.32
-Falkland Is.,1960,6.27,2.12,6.14
-Falkland Is.,1970,6.31,0.64,6.27
-Falkland Is.,1980,6.61,4.75,6.31
-Falkland Is.,1990,6.66,0.76,6.61
-Falkland Is.,2000,6.65,-0.15,6.66
+Falkland Islands (Islas Malvinas),1860,5.68,0,0
+Falkland Islands (Islas Malvinas),1870,5.66,-0.35,5.68
+Falkland Islands (Islas Malvinas),1880,5.36,-5.3,5.66
+Falkland Islands (Islas Malvinas),1890,5.76,7.46,5.36
+Falkland Islands (Islas Malvinas),1900,5.74,-0.35,5.76
+Falkland Islands (Islas Malvinas),1910,6,4.53,5.74
+Falkland Islands (Islas Malvinas),1920,5.8,-3.33,6
+Falkland Islands (Islas Malvinas),1930,5.83,0.52,5.8
+Falkland Islands (Islas Malvinas),1940,6.32,8.4,5.83
+Falkland Islands (Islas Malvinas),1950,6.14,-2.85,6.32
+Falkland Islands (Islas Malvinas),1960,6.27,2.12,6.14
+Falkland Islands (Islas Malvinas),1970,6.31,0.64,6.27
+Falkland Islands (Islas Malvinas),1980,6.61,4.75,6.31
+Falkland Islands (Islas Malvinas),1990,6.66,0.76,6.61
+Falkland Islands (Islas Malvinas),2000,6.65,-0.15,6.66
 Faroe Islands,1850,6.56,1.86,6.44
 Faroe Islands,1860,6.32,-3.66,6.56
 Faroe Islands,1870,6.54,3.48,6.32
@@ -1140,29 +1156,22 @@ Finland,1970,1.6,25.98,1.27
 Finland,1980,1.4,-12.5,1.6
 Finland,1990,2.13,52.14,1.4
 Finland,2000,2.79,30.99,2.13
-Fr. S. Antarctic Lands,1940,3.55,0,0
-Fr. S. Antarctic Lands,1950,4.77,34.37,3.55
-Fr. S. Antarctic Lands,1960,4.67,-2.1,4.77
-Fr. S. Antarctic Lands,1970,4.91,5.14,4.67
-Fr. S. Antarctic Lands,1980,5.04,2.65,4.91
-Fr. S. Antarctic Lands,1990,5.25,4.17,5.04
-Fr. S. Antarctic Lands,2000,5.3,0.95,5.25
-France,1850,12.43,-0.4,12.48
-France,1860,12.7,2.17,12.43
-France,1870,12.51,-1.5,12.7
-France,1880,12.28,-1.84,12.51
-France,1890,12.53,2.04,12.28
-France,1900,12.53,0,12.53
-France,1910,12.59,0.48,12.53
-France,1920,12.86,2.14,12.59
-France,1930,12.89,0.23,12.86
-France,1940,13.06,1.32,12.89
-France,1950,13,-0.46,13.06
-France,1960,12.86,-1.08,13
-France,1970,12.9,0.31,12.86
-France,1980,13.16,2.02,12.9
-France,1990,13.66,3.8,13.16
-France,2000,13.9,1.76,13.66
+France (Europe),1850,10.08,-0.69,10.15
+France (Europe),1860,10.39,3.08,10.08
+France (Europe),1870,10.13,-2.5,10.39
+France (Europe),1880,9.9,-2.27,10.13
+France (Europe),1890,10.18,2.83,9.9
+France (Europe),1900,10.15,-0.29,10.18
+France (Europe),1910,10.22,0.69,10.15
+France (Europe),1920,10.54,3.13,10.22
+France (Europe),1930,10.52,-0.19,10.54
+France (Europe),1940,10.71,1.81,10.52
+France (Europe),1950,10.61,-0.93,10.71
+France (Europe),1960,10.45,-1.51,10.61
+France (Europe),1970,10.5,0.48,10.45
+France (Europe),1980,10.78,2.67,10.5
+France (Europe),1990,11.32,5.01,10.78
+France (Europe),2000,11.57,2.21,11.32
 French Guiana,1850,25.21,-0.36,25.3
 French Guiana,1860,25.31,0.4,25.21
 French Guiana,1870,25.45,0.55,25.31
@@ -1193,6 +1202,13 @@ French Polynesia,1970,26.22,0.23,26.16
 French Polynesia,1980,26.46,0.92,26.22
 French Polynesia,1990,26.67,0.79,26.46
 French Polynesia,2000,26.79,0.45,26.67
+French Southern And Antarctic Lands,1940,3.55,0,0
+French Southern And Antarctic Lands,1950,4.77,34.37,3.55
+French Southern And Antarctic Lands,1960,4.67,-2.1,4.77
+French Southern And Antarctic Lands,1970,4.91,5.14,4.67
+French Southern And Antarctic Lands,1980,5.04,2.65,4.91
+French Southern And Antarctic Lands,1990,5.25,4.17,5.04
+French Southern And Antarctic Lands,2000,5.3,0.95,5.25
 Gabon,1850,23.68,0,0
 Gabon,1860,23.76,0.34,23.68
 Gabon,1870,23.81,0.21,23.76
@@ -1305,22 +1321,22 @@ Greece,1970,14.79,-2.44,15.16
 Greece,1980,14.9,0.74,14.79
 Greece,1990,15.2,2.01,14.9
 Greece,2000,15.66,3.03,15.2
-Greenland,1850,-19.03,0.21,-18.99
-Greenland,1860,-19.36,1.73,-19.03
-Greenland,1870,-18.65,-3.67,-19.36
-Greenland,1880,-19.67,5.47,-18.65
-Greenland,1890,-19.62,-0.25,-19.67
-Greenland,1900,-18.97,-3.31,-19.62
-Greenland,1910,-19.22,1.32,-18.97
-Greenland,1920,-18.25,-5.05,-19.22
-Greenland,1930,-17.26,-5.42,-18.25
-Greenland,1940,-17.85,3.42,-17.26
-Greenland,1950,-18.22,2.07,-17.85
-Greenland,1960,-18.24,0.11,-18.22
-Greenland,1970,-18.75,2.8,-18.24
-Greenland,1980,-18.63,-0.64,-18.75
-Greenland,1990,-18.32,-1.66,-18.63
-Greenland,2000,-17.04,-6.99,-18.32
+Greenland,1850,-19.03,-0.21,-18.99
+Greenland,1860,-19.36,-1.73,-19.03
+Greenland,1870,-18.65,3.67,-19.36
+Greenland,1880,-19.67,-5.47,-18.65
+Greenland,1890,-19.62,0.25,-19.67
+Greenland,1900,-18.97,3.31,-19.62
+Greenland,1910,-19.22,-1.32,-18.97
+Greenland,1920,-18.25,5.05,-19.22
+Greenland,1930,-17.26,5.42,-18.25
+Greenland,1940,-17.85,-3.42,-17.26
+Greenland,1950,-18.22,-2.07,-17.85
+Greenland,1960,-18.24,-0.11,-18.22
+Greenland,1970,-18.75,-2.8,-18.24
+Greenland,1980,-18.63,0.64,-18.75
+Greenland,1990,-18.32,1.66,-18.63
+Greenland,2000,-17.04,6.99,-18.32
 Grenada,1850,26.23,-0.3,26.31
 Grenada,1860,26.35,0.46,26.23
 Grenada,1870,26.53,0.68,26.35
@@ -1412,22 +1428,22 @@ Guinea,1970,25.65,0.35,25.56
 Guinea,1980,25.89,0.94,25.65
 Guinea,1990,26,0.42,25.89
 Guinea,2000,26.31,1.19,26
-Guinea-Bissau,1850,26.24,0.11,26.21
-Guinea-Bissau,1860,26.18,-0.23,26.24
-Guinea-Bissau,1870,26.15,-0.11,26.18
-Guinea-Bissau,1880,26.29,0.54,26.15
-Guinea-Bissau,1890,26.55,0.99,26.29
-Guinea-Bissau,1900,26.4,-0.56,26.55
-Guinea-Bissau,1910,26.62,0.83,26.4
-Guinea-Bissau,1920,26.69,0.26,26.62
-Guinea-Bissau,1930,26.77,0.3,26.69
-Guinea-Bissau,1940,26.87,0.37,26.77
-Guinea-Bissau,1950,26.73,-0.52,26.87
-Guinea-Bissau,1960,26.83,0.37,26.73
-Guinea-Bissau,1970,26.9,0.26,26.83
-Guinea-Bissau,1980,27.23,1.23,26.9
-Guinea-Bissau,1990,27.4,0.62,27.23
-Guinea-Bissau,2000,27.56,0.58,27.4
+Guinea Bissau,1850,26.24,0.11,26.21
+Guinea Bissau,1860,26.18,-0.23,26.24
+Guinea Bissau,1870,26.15,-0.11,26.18
+Guinea Bissau,1880,26.29,0.54,26.15
+Guinea Bissau,1890,26.55,0.99,26.29
+Guinea Bissau,1900,26.4,-0.56,26.55
+Guinea Bissau,1910,26.62,0.83,26.4
+Guinea Bissau,1920,26.69,0.26,26.62
+Guinea Bissau,1930,26.77,0.3,26.69
+Guinea Bissau,1940,26.87,0.37,26.77
+Guinea Bissau,1950,26.73,-0.52,26.87
+Guinea Bissau,1960,26.83,0.37,26.73
+Guinea Bissau,1970,26.9,0.26,26.83
+Guinea Bissau,1980,27.23,1.23,26.9
+Guinea Bissau,1990,27.4,0.62,27.23
+Guinea Bissau,2000,27.56,0.58,27.4
 Guyana,1850,25.43,-0.2,25.48
 Guyana,1860,25.53,0.39,25.43
 Guyana,1870,25.69,0.63,25.53
@@ -1781,22 +1797,6 @@ Kiribati,1970,26.73,-0.41,26.84
 Kiribati,1980,27.07,1.27,26.73
 Kiribati,1990,27.28,0.78,27.07
 Kiribati,2000,27.51,0.84,27.28
-Korea,1850,11.31,-0.7,11.39
-Korea,1860,11.31,0,11.31
-Korea,1870,11.56,2.21,11.31
-Korea,1880,11.3,-2.25,11.56
-Korea,1890,11.77,4.16,11.3
-Korea,1900,11.52,-2.12,11.77
-Korea,1910,11.48,-0.35,11.52
-Korea,1920,11.67,1.66,11.48
-Korea,1930,11.86,1.63,11.67
-Korea,1940,11.81,-0.42,11.86
-Korea,1950,12.1,2.46,11.81
-Korea,1960,12.1,0,12.1
-Korea,1970,12.18,0.66,12.1
-Korea,1980,12.07,-0.9,12.18
-Korea,1990,12.77,5.8,12.07
-Korea,2000,12.88,0.86,12.77
 Kuwait,1850,24.62,0.98,24.38
 Kuwait,1860,24.55,-0.28,24.62
 Kuwait,1870,24.97,1.71,24.55
@@ -1829,22 +1829,22 @@ Kyrgyzstan,1970,3.54,2.31,3.46
 Kyrgyzstan,1980,3.91,10.45,3.54
 Kyrgyzstan,1990,4.02,2.81,3.91
 Kyrgyzstan,2000,4.67,16.17,4.02
-Lao PDR,1850,23.24,0.78,23.06
-Lao PDR,1860,23.07,-0.73,23.24
-Lao PDR,1870,23.34,1.17,23.07
-Lao PDR,1880,23.19,-0.64,23.34
-Lao PDR,1890,23.28,0.39,23.19
-Lao PDR,1900,23.46,0.77,23.28
-Lao PDR,1910,23.46,0,23.46
-Lao PDR,1920,23.59,0.55,23.46
-Lao PDR,1930,23.66,0.3,23.59
-Lao PDR,1940,23.97,1.31,23.66
-Lao PDR,1950,23.91,-0.25,23.97
-Lao PDR,1960,23.93,0.08,23.91
-Lao PDR,1970,23.8,-0.54,23.93
-Lao PDR,1980,23.95,0.63,23.8
-Lao PDR,1990,24.04,0.38,23.95
-Lao PDR,2000,24.13,0.37,24.04
+Laos,1850,23.24,0.78,23.06
+Laos,1860,23.07,-0.73,23.24
+Laos,1870,23.34,1.17,23.07
+Laos,1880,23.19,-0.64,23.34
+Laos,1890,23.28,0.39,23.19
+Laos,1900,23.46,0.77,23.28
+Laos,1910,23.46,0,23.46
+Laos,1920,23.59,0.55,23.46
+Laos,1930,23.66,0.3,23.59
+Laos,1940,23.97,1.31,23.66
+Laos,1950,23.91,-0.25,23.97
+Laos,1960,23.93,0.08,23.91
+Laos,1970,23.8,-0.54,23.93
+Laos,1980,23.95,0.63,23.8
+Laos,1990,24.04,0.38,23.95
+Laos,2000,24.13,0.37,24.04
 Latvia,1850,5.06,5.2,4.81
 Latvia,1860,4.96,-1.98,5.06
 Latvia,1870,4.75,-4.23,4.96
@@ -2196,20 +2196,20 @@ Monaco,1970,9.1,-0.22,9.12
 Monaco,1980,9.41,3.41,9.1
 Monaco,1990,9.89,5.1,9.41
 Monaco,2000,10.22,3.34,9.89
-Mongolia,1850,-1.39,14.88,-1.21
-Mongolia,1860,-1.28,-7.91,-1.39
-Mongolia,1870,-1.05,-17.97,-1.28
-Mongolia,1880,-1.21,15.24,-1.05
-Mongolia,1890,-1.11,-8.26,-1.21
-Mongolia,1900,-1.2,8.11,-1.11
+Mongolia,1850,-1.39,-14.88,-1.21
+Mongolia,1860,-1.28,7.91,-1.39
+Mongolia,1870,-1.05,17.97,-1.28
+Mongolia,1880,-1.21,-15.24,-1.05
+Mongolia,1890,-1.11,8.26,-1.21
+Mongolia,1900,-1.2,-8.11,-1.11
 Mongolia,1910,-1.2,-0,-1.2
-Mongolia,1920,-0.87,-27.5,-1.2
-Mongolia,1930,-1.1,26.44,-0.87
-Mongolia,1940,-0.7,-36.36,-1.1
-Mongolia,1950,-0.98,40,-0.7
-Mongolia,1960,-0.57,-41.84,-0.98
-Mongolia,1970,-0.37,-35.09,-0.57
-Mongolia,1980,-0.32,-13.51,-0.37
+Mongolia,1920,-0.87,27.5,-1.2
+Mongolia,1930,-1.1,-26.44,-0.87
+Mongolia,1940,-0.7,36.36,-1.1
+Mongolia,1950,-0.98,-40,-0.7
+Mongolia,1960,-0.57,41.84,-0.98
+Mongolia,1970,-0.37,35.09,-0.57
+Mongolia,1980,-0.32,13.51,-0.37
 Mongolia,1990,0.62,-293.75,-0.32
 Mongolia,2000,0.77,24.19,0.62
 Montenegro,1850,9.84,-1.7,10.01
@@ -2276,22 +2276,6 @@ Mozambique,1970,23.66,0.13,23.63
 Mozambique,1980,23.92,1.1,23.66
 Mozambique,1990,24.28,1.51,23.92
 Mozambique,2000,24.26,-0.08,24.28
-Myanmar,1850,23.36,0.86,23.16
-Myanmar,1860,23.2,-0.68,23.36
-Myanmar,1870,23.47,1.16,23.2
-Myanmar,1880,23.42,-0.21,23.47
-Myanmar,1890,23.55,0.56,23.42
-Myanmar,1900,23.62,0.3,23.55
-Myanmar,1910,23.54,-0.34,23.62
-Myanmar,1920,23.76,0.93,23.54
-Myanmar,1930,23.82,0.25,23.76
-Myanmar,1940,23.94,0.5,23.82
-Myanmar,1950,23.99,0.21,23.94
-Myanmar,1960,24.03,0.17,23.99
-Myanmar,1970,23.98,-0.21,24.03
-Myanmar,1980,24.12,0.58,23.98
-Myanmar,1990,24.12,0,24.12
-Myanmar,2000,24.3,0.75,24.12
 Namibia,1850,19.89,0,0
 Namibia,1860,20.1,1.06,19.89
 Namibia,1870,20,-0.5,20.1
@@ -2324,22 +2308,22 @@ Nepal,1970,15.03,0.27,14.99
 Nepal,1980,15.15,0.8,15.03
 Nepal,1990,15.33,1.19,15.15
 Nepal,2000,15.64,2.02,15.33
-Netherlands,1850,9.15,-1.08,9.25
-Netherlands,1860,9.46,3.39,9.15
-Netherlands,1870,9.2,-2.75,9.46
-Netherlands,1880,9.1,-1.09,9.2
-Netherlands,1890,9.23,1.43,9.1
-Netherlands,1900,9.25,0.22,9.23
-Netherlands,1910,9.54,3.14,9.25
-Netherlands,1920,9.45,-0.94,9.54
-Netherlands,1930,9.91,4.87,9.45
-Netherlands,1940,9.65,-2.62,9.91
-Netherlands,1950,9.7,0.52,9.65
-Netherlands,1960,9.5,-2.06,9.7
-Netherlands,1970,9.74,2.53,9.5
-Netherlands,1980,9.81,0.72,9.74
-Netherlands,1990,10.35,5.5,9.81
-Netherlands,2000,10.9,5.31,10.35
+Netherlands (Europe),1850,8.75,-1.24,8.86
+Netherlands (Europe),1860,9.07,3.66,8.75
+Netherlands (Europe),1870,8.8,-2.98,9.07
+Netherlands (Europe),1880,8.7,-1.14,8.8
+Netherlands (Europe),1890,8.83,1.49,8.7
+Netherlands (Europe),1900,8.86,0.34,8.83
+Netherlands (Europe),1910,9.16,3.39,8.86
+Netherlands (Europe),1920,9.06,-1.09,9.16
+Netherlands (Europe),1930,9.52,5.08,9.06
+Netherlands (Europe),1940,9.26,-2.73,9.52
+Netherlands (Europe),1950,9.31,0.54,9.26
+Netherlands (Europe),1960,9.1,-2.26,9.31
+Netherlands (Europe),1970,9.34,2.64,9.1
+Netherlands (Europe),1980,9.41,0.75,9.34
+Netherlands (Europe),1990,9.96,5.84,9.41
+Netherlands (Europe),2000,10.52,5.62,9.96
 New Caledonia,1850,22.13,0,0
 New Caledonia,1860,22.26,0.59,22.13
 New Caledonia,1870,22.44,0.81,22.26
@@ -2435,6 +2419,22 @@ Niue,1970,25.35,0.96,25.11
 Niue,1980,25.39,0.16,25.35
 Niue,1990,25.54,0.59,25.39
 Niue,2000,25.7,0.63,25.54
+North Korea,1850,6.13,-3.16,6.33
+North Korea,1860,6.23,1.63,6.13
+North Korea,1870,6.43,3.21,6.23
+North Korea,1880,6.22,-3.27,6.43
+North Korea,1890,6.61,6.27,6.22
+North Korea,1900,6.55,-0.91,6.61
+North Korea,1910,6.26,-4.43,6.55
+North Korea,1920,6.57,4.95,6.26
+North Korea,1930,6.77,3.04,6.57
+North Korea,1940,6.73,-0.59,6.77
+North Korea,1950,6.88,2.23,6.73
+North Korea,1960,6.92,0.58,6.88
+North Korea,1970,7.07,2.17,6.92
+North Korea,1980,7.07,0,7.07
+North Korea,1990,7.85,11.03,7.07
+North Korea,2000,7.95,1.27,7.85
 Northern Mariana Islands,1900,26.37,0,0
 Northern Mariana Islands,1910,26.6,0.87,26.37
 Northern Mariana Islands,1920,26.59,-0.04,26.6
@@ -2446,18 +2446,18 @@ Northern Mariana Islands,1970,27.07,0.71,26.88
 Northern Mariana Islands,1980,27.44,1.37,27.07
 Northern Mariana Islands,1990,27.35,-0.33,27.44
 Northern Mariana Islands,2000,27.45,0.37,27.35
-Norway,1850,-0.12,-33.33,-0.18
-Norway,1860,-0.41,241.67,-0.12
-Norway,1870,-0.36,-12.2,-0.41
-Norway,1880,-0.2,-44.44,-0.36
-Norway,1890,-0.08,-60,-0.2
-Norway,1900,-0.18,125,-0.08
-Norway,1910,-0.09,-50,-0.18
+Norway,1850,-0.12,33.33,-0.18
+Norway,1860,-0.41,-241.67,-0.12
+Norway,1870,-0.36,12.2,-0.41
+Norway,1880,-0.2,44.44,-0.36
+Norway,1890,-0.08,60,-0.2
+Norway,1900,-0.18,-125,-0.08
+Norway,1910,-0.09,50,-0.18
 Norway,1920,0.19,-311.11,-0.09
 Norway,1930,1.11,484.21,0.19
 Norway,1940,0.35,-68.47,1.11
 Norway,1950,0.47,34.29,0.35
-Norway,1960,-0.02,-104.26,0.47
+Norway,1960,-0.02,104.26,0.47
 Norway,1970,0.37,-1950,-0.02
 Norway,1980,0.25,-32.43,0.37
 Norway,1990,0.89,256,0.25
@@ -2505,22 +2505,22 @@ Palau,1970,27.48,0.48,27.35
 Palau,1980,27.62,0.51,27.48
 Palau,1990,27.67,0.18,27.62
 Palau,2000,27.75,0.29,27.67
-Palestine,1850,22.66,2.53,22.1
-Palestine,1860,22.66,0,22.66
-Palestine,1870,22.89,1.02,22.66
-Palestine,1880,22.63,-1.14,22.89
-Palestine,1890,22.72,0.4,22.63
-Palestine,1900,22.77,0.22,22.72
-Palestine,1910,22.92,0.66,22.77
-Palestine,1920,23.02,0.44,22.92
-Palestine,1930,23.19,0.74,23.02
-Palestine,1940,23.21,0.09,23.19
-Palestine,1950,23.3,0.39,23.21
-Palestine,1960,23.28,-0.09,23.3
-Palestine,1970,23.38,0.43,23.28
-Palestine,1980,23.43,0.21,23.38
-Palestine,1990,23.64,0.9,23.43
-Palestine,2000,23.91,1.14,23.64
+Palestina,1850,22.66,2.53,22.1
+Palestina,1860,22.66,0,22.66
+Palestina,1870,22.89,1.02,22.66
+Palestina,1880,22.63,-1.14,22.89
+Palestina,1890,22.72,0.4,22.63
+Palestina,1900,22.77,0.22,22.72
+Palestina,1910,22.92,0.66,22.77
+Palestina,1920,23.02,0.44,22.92
+Palestina,1930,23.19,0.74,23.02
+Palestina,1940,23.21,0.09,23.19
+Palestina,1950,23.3,0.39,23.21
+Palestina,1960,23.28,-0.09,23.3
+Palestina,1970,23.38,0.43,23.28
+Palestina,1980,23.43,0.21,23.38
+Palestina,1990,23.64,0.9,23.43
+Palestina,2000,23.91,1.14,23.64
 Palmyra Atoll,1880,26.53,0,0
 Palmyra Atoll,1890,26.66,0.49,26.53
 Palmyra Atoll,1900,26.75,0.34,26.66
@@ -2705,22 +2705,22 @@ Romania,1970,9.03,-0.66,9.09
 Romania,1980,8.9,-1.44,9.03
 Romania,1990,9.36,5.17,8.9
 Romania,2000,9.98,6.62,9.36
-Russia,1850,-5.89,-0.34,-5.91
-Russia,1860,-5.9,0.17,-5.89
-Russia,1870,-5.85,-0.85,-5.9
-Russia,1880,-6.08,3.93,-5.85
-Russia,1890,-5.86,-3.62,-6.08
-Russia,1900,-5.79,-1.19,-5.86
-Russia,1910,-5.96,2.94,-5.79
-Russia,1920,-5.49,-7.89,-5.96
-Russia,1930,-5.16,-6.01,-5.49
-Russia,1940,-5.21,0.97,-5.16
-Russia,1950,-5.47,4.99,-5.21
-Russia,1960,-5.5,0.55,-5.47
-Russia,1970,-5.34,-2.91,-5.5
-Russia,1980,-4.9,-8.24,-5.34
-Russia,1990,-4.5,-8.16,-4.9
-Russia,2000,-4.06,-9.78,-4.5
+Russia,1850,-5.89,0.34,-5.91
+Russia,1860,-5.9,-0.17,-5.89
+Russia,1870,-5.85,0.85,-5.9
+Russia,1880,-6.08,-3.93,-5.85
+Russia,1890,-5.86,3.62,-6.08
+Russia,1900,-5.79,1.19,-5.86
+Russia,1910,-5.96,-2.94,-5.79
+Russia,1920,-5.49,7.89,-5.96
+Russia,1930,-5.16,6.01,-5.49
+Russia,1940,-5.21,-0.97,-5.16
+Russia,1950,-5.47,-4.99,-5.21
+Russia,1960,-5.5,-0.55,-5.47
+Russia,1970,-5.34,2.91,-5.5
+Russia,1980,-4.9,8.24,-5.34
+Russia,1990,-4.5,8.16,-4.9
+Russia,2000,-4.06,9.78,-4.5
 Rwanda,1850,18.61,0,0
 Rwanda,1860,18.54,-0.38,18.61
 Rwanda,1870,18.96,2.27,18.54
@@ -3024,21 +3024,21 @@ Slovenia,1970,9.78,0.82,9.7
 Slovenia,1980,9.88,1.02,9.78
 Slovenia,1990,10.47,5.97,9.88
 Slovenia,2000,10.95,4.58,10.47
-Solomon Is.,1860,26.22,0,0
-Solomon Is.,1870,26.11,-0.42,26.22
-Solomon Is.,1880,25.87,-0.92,26.11
-Solomon Is.,1890,26.05,0.7,25.87
-Solomon Is.,1900,26.18,0.5,26.05
-Solomon Is.,1910,26.47,1.11,26.18
-Solomon Is.,1920,26.42,-0.19,26.47
-Solomon Is.,1930,26.47,0.19,26.42
-Solomon Is.,1940,26.6,0.49,26.47
-Solomon Is.,1950,26.66,0.23,26.6
-Solomon Is.,1960,26.61,-0.19,26.66
-Solomon Is.,1970,26.76,0.56,26.61
-Solomon Is.,1980,26.99,0.86,26.76
-Solomon Is.,1990,27.05,0.22,26.99
-Solomon Is.,2000,27.31,0.96,27.05
+Solomon Islands,1860,26.22,0,0
+Solomon Islands,1870,26.11,-0.42,26.22
+Solomon Islands,1880,25.87,-0.92,26.11
+Solomon Islands,1890,26.05,0.7,25.87
+Solomon Islands,1900,26.18,0.5,26.05
+Solomon Islands,1910,26.47,1.11,26.18
+Solomon Islands,1920,26.42,-0.19,26.47
+Solomon Islands,1930,26.47,0.19,26.42
+Solomon Islands,1940,26.6,0.49,26.47
+Solomon Islands,1950,26.66,0.23,26.6
+Solomon Islands,1960,26.61,-0.19,26.66
+Solomon Islands,1970,26.76,0.56,26.61
+Solomon Islands,1980,26.99,0.86,26.76
+Solomon Islands,1990,27.05,0.22,26.99
+Solomon Islands,2000,27.31,0.96,27.05
 Somalia,1850,26.26,0,0
 Somalia,1860,26.24,-0.08,26.26
 Somalia,1870,26.59,1.33,26.24
@@ -3085,6 +3085,22 @@ South Georgia And The South Sandwich Isla,1970,1.48,2.07,1.45
 South Georgia And The South Sandwich Isla,1980,1.72,16.22,1.48
 South Georgia And The South Sandwich Isla,1990,1.95,13.37,1.72
 South Georgia And The South Sandwich Isla,2000,2.06,5.64,1.95
+South Korea,1850,11.31,-0.7,11.39
+South Korea,1860,11.31,0,11.31
+South Korea,1870,11.56,2.21,11.31
+South Korea,1880,11.3,-2.25,11.56
+South Korea,1890,11.77,4.16,11.3
+South Korea,1900,11.52,-2.12,11.77
+South Korea,1910,11.48,-0.35,11.52
+South Korea,1920,11.67,1.66,11.48
+South Korea,1930,11.86,1.63,11.67
+South Korea,1940,11.81,-0.42,11.86
+South Korea,1950,12.1,2.46,11.81
+South Korea,1960,12.1,0,12.1
+South Korea,1970,12.18,0.66,12.1
+South Korea,1980,12.07,-0.9,12.18
+South Korea,1990,12.77,5.8,12.07
+South Korea,2000,12.88,0.86,12.77
 Spain,1850,13.4,0.07,13.39
 Spain,1860,13.56,1.19,13.4
 Spain,1870,13.51,-0.37,13.56
@@ -3149,22 +3165,22 @@ Suriname,1970,26.31,-0.68,26.49
 Suriname,1980,26.55,0.91,26.31
 Suriname,1990,26.84,1.09,26.55
 Suriname,2000,27.02,0.67,26.84
-Svalbard And Jan Mayen,1850,-7.86,1.42,-7.75
-Svalbard And Jan Mayen,1860,-7.99,1.65,-7.86
-Svalbard And Jan Mayen,1870,-7.79,-2.5,-7.99
-Svalbard And Jan Mayen,1880,-8.01,2.82,-7.79
-Svalbard And Jan Mayen,1890,-7.94,-0.87,-8.01
-Svalbard And Jan Mayen,1900,-7.78,-2.02,-7.94
-Svalbard And Jan Mayen,1910,-8.19,5.27,-7.78
-Svalbard And Jan Mayen,1920,-7.07,-13.68,-8.19
-Svalbard And Jan Mayen,1930,-6.07,-14.14,-7.07
-Svalbard And Jan Mayen,1940,-7.22,18.95,-6.07
-Svalbard And Jan Mayen,1950,-6.46,-10.53,-7.22
-Svalbard And Jan Mayen,1960,-8.15,26.16,-6.46
-Svalbard And Jan Mayen,1970,-7.31,-10.31,-8.15
-Svalbard And Jan Mayen,1980,-7.55,3.28,-7.31
-Svalbard And Jan Mayen,1990,-6.9,-8.61,-7.55
-Svalbard And Jan Mayen,2000,-5.85,-15.22,-6.9
+Svalbard And Jan Mayen,1850,-7.86,-1.42,-7.75
+Svalbard And Jan Mayen,1860,-7.99,-1.65,-7.86
+Svalbard And Jan Mayen,1870,-7.79,2.5,-7.99
+Svalbard And Jan Mayen,1880,-8.01,-2.82,-7.79
+Svalbard And Jan Mayen,1890,-7.94,0.87,-8.01
+Svalbard And Jan Mayen,1900,-7.78,2.02,-7.94
+Svalbard And Jan Mayen,1910,-8.19,-5.27,-7.78
+Svalbard And Jan Mayen,1920,-7.07,13.68,-8.19
+Svalbard And Jan Mayen,1930,-6.07,14.14,-7.07
+Svalbard And Jan Mayen,1940,-7.22,-18.95,-6.07
+Svalbard And Jan Mayen,1950,-6.46,10.53,-7.22
+Svalbard And Jan Mayen,1960,-8.15,-26.16,-6.46
+Svalbard And Jan Mayen,1970,-7.31,10.31,-8.15
+Svalbard And Jan Mayen,1980,-7.55,-3.28,-7.31
+Svalbard And Jan Mayen,1990,-6.9,8.61,-7.55
+Svalbard And Jan Mayen,2000,-5.85,15.22,-6.9
 Swaziland,1850,18.25,0,0
 Swaziland,1860,18.44,1.04,18.25
 Swaziland,1870,18.4,-0.22,18.44
@@ -3293,20 +3309,20 @@ Thailand,1970,26.27,-0.34,26.36
 Thailand,1980,26.36,0.34,26.27
 Thailand,1990,26.53,0.64,26.36
 Thailand,2000,26.6,0.26,26.53
-Timor-Leste,1870,25.82,0,0
-Timor-Leste,1880,25.65,-0.66,25.82
-Timor-Leste,1890,25.43,-0.86,25.65
-Timor-Leste,1900,25.76,1.3,25.43
-Timor-Leste,1910,25.54,-0.85,25.76
-Timor-Leste,1920,25.68,0.55,25.54
-Timor-Leste,1930,25.84,0.62,25.68
-Timor-Leste,1940,25.86,0.08,25.84
-Timor-Leste,1950,26.14,1.08,25.86
-Timor-Leste,1960,25.98,-0.61,26.14
-Timor-Leste,1970,26.32,1.31,25.98
-Timor-Leste,1980,26.41,0.34,26.32
-Timor-Leste,1990,26.38,-0.11,26.41
-Timor-Leste,2000,26.47,0.34,26.38
+Timor Leste,1870,25.82,0,0
+Timor Leste,1880,25.65,-0.66,25.82
+Timor Leste,1890,25.43,-0.86,25.65
+Timor Leste,1900,25.76,1.3,25.43
+Timor Leste,1910,25.54,-0.85,25.76
+Timor Leste,1920,25.68,0.55,25.54
+Timor Leste,1930,25.84,0.62,25.68
+Timor Leste,1940,25.86,0.08,25.84
+Timor Leste,1950,26.14,1.08,25.86
+Timor Leste,1960,25.98,-0.61,26.14
+Timor Leste,1970,26.32,1.31,25.98
+Timor Leste,1980,26.41,0.34,26.32
+Timor Leste,1990,26.38,-0.11,26.41
+Timor Leste,2000,26.47,0.34,26.38
 Togo,1850,26.28,-0.04,26.29
 Togo,1860,26.42,0.53,26.28
 Togo,1870,26.31,-0.42,26.42
@@ -3338,22 +3354,22 @@ Tonga,1970,23.6,1.72,23.2
 Tonga,1980,23.58,-0.08,23.6
 Tonga,1990,23.65,0.3,23.58
 Tonga,2000,23.85,0.85,23.65
-Trinidad and Tobago,1850,25.61,-0.35,25.7
-Trinidad and Tobago,1860,25.72,0.43,25.61
-Trinidad and Tobago,1870,25.92,0.78,25.72
-Trinidad and Tobago,1880,25.61,-1.2,25.92
-Trinidad and Tobago,1890,25.68,0.27,25.61
-Trinidad and Tobago,1900,25.82,0.55,25.68
-Trinidad and Tobago,1910,25.78,-0.15,25.82
-Trinidad and Tobago,1920,25.92,0.54,25.78
-Trinidad and Tobago,1930,26.09,0.66,25.92
-Trinidad and Tobago,1940,26.3,0.8,26.09
-Trinidad and Tobago,1950,26.34,0.15,26.3
-Trinidad and Tobago,1960,26.44,0.38,26.34
-Trinidad and Tobago,1970,26.33,-0.42,26.44
-Trinidad and Tobago,1980,26.55,0.84,26.33
-Trinidad and Tobago,1990,26.75,0.75,26.55
-Trinidad and Tobago,2000,26.94,0.71,26.75
+Trinidad And Tobago,1850,25.61,-0.35,25.7
+Trinidad And Tobago,1860,25.72,0.43,25.61
+Trinidad And Tobago,1870,25.92,0.78,25.72
+Trinidad And Tobago,1880,25.61,-1.2,25.92
+Trinidad And Tobago,1890,25.68,0.27,25.61
+Trinidad And Tobago,1900,25.82,0.55,25.68
+Trinidad And Tobago,1910,25.78,-0.15,25.82
+Trinidad And Tobago,1920,25.92,0.54,25.78
+Trinidad And Tobago,1930,26.09,0.66,25.92
+Trinidad And Tobago,1940,26.3,0.8,26.09
+Trinidad And Tobago,1950,26.34,0.15,26.3
+Trinidad And Tobago,1960,26.44,0.38,26.34
+Trinidad And Tobago,1970,26.33,-0.42,26.44
+Trinidad And Tobago,1980,26.55,0.84,26.33
+Trinidad And Tobago,1990,26.75,0.75,26.55
+Trinidad And Tobago,2000,26.94,0.71,26.75
 Tunisia,1850,19.58,-1.16,19.81
 Tunisia,1860,19.81,1.17,19.58
 Tunisia,1870,19.79,-0.1,19.81
@@ -3466,22 +3482,22 @@ United Arab Emirates,1970,27.86,0.43,27.74
 United Arab Emirates,1980,27.79,-0.25,27.86
 United Arab Emirates,1990,28.27,1.73,27.79
 United Arab Emirates,2000,29.02,2.65,28.27
-United Kingdom,1850,8.37,0.72,8.31
-United Kingdom,1860,8.39,0.24,8.37
-United Kingdom,1870,8.27,-1.43,8.39
-United Kingdom,1880,8.05,-2.66,8.27
-United Kingdom,1890,8.38,4.1,8.05
-United Kingdom,1900,8.3,-0.95,8.38
-United Kingdom,1910,8.45,1.81,8.3
-United Kingdom,1920,8.52,0.83,8.45
-United Kingdom,1930,8.79,3.17,8.52
-United Kingdom,1940,8.84,0.57,8.79
-United Kingdom,1950,8.72,-1.36,8.84
-United Kingdom,1960,8.5,-2.52,8.72
-United Kingdom,1970,8.72,2.59,8.5
-United Kingdom,1980,8.72,0,8.72
-United Kingdom,1990,9.21,5.62,8.72
-United Kingdom,2000,9.59,4.13,9.21
+United Kingdom (Europe),1850,8.55,0.71,8.49
+United Kingdom (Europe),1860,8.56,0.12,8.55
+United Kingdom (Europe),1870,8.44,-1.4,8.56
+United Kingdom (Europe),1880,8.22,-2.61,8.44
+United Kingdom (Europe),1890,8.55,4.01,8.22
+United Kingdom (Europe),1900,8.46,-1.05,8.55
+United Kingdom (Europe),1910,8.61,1.77,8.46
+United Kingdom (Europe),1920,8.69,0.93,8.61
+United Kingdom (Europe),1930,8.98,3.34,8.69
+United Kingdom (Europe),1940,9.01,0.33,8.98
+United Kingdom (Europe),1950,8.89,-1.33,9.01
+United Kingdom (Europe),1960,8.64,-2.81,8.89
+United Kingdom (Europe),1970,8.87,2.66,8.64
+United Kingdom (Europe),1980,8.86,-0.11,8.87
+United Kingdom (Europe),1990,9.37,5.76,8.86
+United Kingdom (Europe),2000,9.77,4.27,9.37
 United States,1850,8.33,1.34,8.22
 United States,1860,8.41,0.96,8.33
 United States,1870,8.47,0.71,8.41
@@ -3578,22 +3594,22 @@ Virgin Islands,1970,26.46,-0.41,26.57
 Virgin Islands,1980,26.77,1.17,26.46
 Virgin Islands,1990,26.99,0.82,26.77
 Virgin Islands,2000,27.2,0.78,26.99
-W. Sahara,1850,22.03,0.14,22
-W. Sahara,1860,22.1,0.32,22.03
-W. Sahara,1870,22.14,0.18,22.1
-W. Sahara,1880,21.92,-0.99,22.14
-W. Sahara,1890,22.24,1.46,21.92
-W. Sahara,1900,22.07,-0.76,22.24
-W. Sahara,1910,22.22,0.68,22.07
-W. Sahara,1920,22.45,1.04,22.22
-W. Sahara,1930,22.29,-0.71,22.45
-W. Sahara,1940,22.44,0.67,22.29
-W. Sahara,1950,22.3,-0.62,22.44
-W. Sahara,1960,22.59,1.3,22.3
-W. Sahara,1970,22.29,-1.33,22.59
-W. Sahara,1980,22.92,2.83,22.29
-W. Sahara,1990,23.08,0.7,22.92
-W. Sahara,2000,23.38,1.3,23.08
+Western Sahara,1850,22.03,0.14,22
+Western Sahara,1860,22.1,0.32,22.03
+Western Sahara,1870,22.14,0.18,22.1
+Western Sahara,1880,21.92,-0.99,22.14
+Western Sahara,1890,22.24,1.46,21.92
+Western Sahara,1900,22.07,-0.76,22.24
+Western Sahara,1910,22.22,0.68,22.07
+Western Sahara,1920,22.45,1.04,22.22
+Western Sahara,1930,22.29,-0.71,22.45
+Western Sahara,1940,22.44,0.67,22.29
+Western Sahara,1950,22.3,-0.62,22.44
+Western Sahara,1960,22.59,1.3,22.3
+Western Sahara,1970,22.29,-1.33,22.59
+Western Sahara,1980,22.92,2.83,22.29
+Western Sahara,1990,23.08,0.7,22.92
+Western Sahara,2000,23.38,1.3,23.08
 Yemen,1870,25.71,0,0
 Yemen,1880,25.93,0.86,25.71
 Yemen,1890,25.92,-0.04,25.93

@@ -113,23 +113,31 @@ overall <-  cleaned_up_data  %>% group_by(decade)  %>% summarise(avg_wordwide = 
   replace(is.na(.), 0) %>% ungroup() %>% filter(decade>1840)
  
 
-by_country <- cleaned_up_data  %>% group_by(Country,decade)  %>% summarise(avg_per_country= round(  mean(AverageTemperature),2 ))   %>% mutate( pct_change =  round((avg_per_country- lag(avg_per_country))/ lag(avg_per_country)  * 100  ,2),previous_decade = lag(avg_per_country)  )  %>%
+by_country <- cleaned_up_data  %>% group_by(Country,decade)  %>% summarise(avg_per_country= round(  mean(AverageTemperature),2 ))   %>% mutate( pct_change =  if_else( (avg_per_country)>=0,round((avg_per_country- lag(avg_per_country))/ lag(avg_per_country)  * 100  ,2) , round(( lag(avg_per_country) -avg_per_country)/ lag(avg_per_country)  * 100  ,2) ),previous_decade = lag(avg_per_country)  )  %>%
   replace(is.na(.), 0)  %>% ungroup() %>% filter(decade>1840)
  
  avg_pct_change <- by_country %>% group_by(decade) %>% summarise(avg_pct_change= mean(pct_change))
 
-
+change_from_start <- cleaned_up_data %>%  group_by(Country,decade)  %>% summarise(avg_per_country= round(  mean(AverageTemperature),2 ))    %>% mutate( pct_change = if_else( (avg_per_country)>=0, round((avg_per_country- first(avg_per_country))/ first(avg_per_country)  * 100   , 2), round((first(avg_per_country)-avg_per_country )/ first(avg_per_country)  * 100   , 2) )  )%>% filter(Country == "Canada")
 
 ```
 
 
 ```{r}
-by_country  %>% filter(str_detect(Country ,"Ec"))
+cleaned_up_data %>%  group_by(Country,decade)  %>% summarise(avg_per_country= round(  mean(AverageTemperature),2 ))    %>% mutate( pct_change = if_else( (avg_per_country)>=0, round((avg_per_country- first(avg_per_country))/ first(avg_per_country)  * 100   , 2), round((first(avg_per_country)-avg_per_country )/ first(avg_per_country)  * 100   , 2) )  )
 ```
 
  
 ```{r}
-overall
+by_country %>% filter(Country=="Russia")
+
+```
+ 
+ 
+ 
+ 
+```{r}
+first(cleaned_up_data$AverageTemperature)
 
 
 
@@ -137,9 +145,10 @@ overall
 
 
 ```{r}
-write_csv(overall,"data/world_avg.csv")
+write_csv(overall,"../data/world_avg.csv")
 
-write_csv(by_country,"data/country_avg.csv")
+write_csv(by_country,"../data/country_avg.csv")
+write_csv(change_from_start,"../data/change_start_avg.csv")
 ```
 
 ```{r}
