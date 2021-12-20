@@ -82,7 +82,7 @@ df
 
 
 ```{r}
-df %>% filter(Country=='Antarctica') %>% distinct(year)
+by_country %>% filter(str_detect(Country,"Sudan"))  
 ```
 
 
@@ -113,7 +113,7 @@ overall <-  cleaned_up_data  %>% group_by(decade)  %>% summarise(avg_wordwide = 
   replace(is.na(.), 0) %>% ungroup() %>% filter(decade>1840)
  
 
-by_country <- cleaned_up_data  %>% group_by(Country,decade)  %>% summarise(avg_per_country= round(  mean(AverageTemperature),2 ))   %>% mutate( pct_change =  if_else( (avg_per_country)>=0,round((avg_per_country- lag(avg_per_country))/ lag(avg_per_country)  * 100  ,2) , round(( lag(avg_per_country) -avg_per_country)/ lag(avg_per_country)  * 100  ,2) ),previous_decade = lag(avg_per_country), change_start = if_else( (avg_per_country)>=0, round((avg_per_country- first(avg_per_country))/ first(avg_per_country)  * 100   , 2), round((first(avg_per_country)-avg_per_country )/ first(avg_per_country)  * 100   , 2) )    )  %>%
+by_country <- cleaned_up_data  %>% group_by(Country,decade)  %>% summarise(avg_per_country= round(  mean(AverageTemperature),2 ))   %>% mutate( pct_change =  if_else( (avg_per_country)>=0,round((avg_per_country- lag(avg_per_country))/ lag(avg_per_country)  * 100  ,2) , round(( lag(avg_per_country) -avg_per_country)/ lag(avg_per_country)  * 100  ,2) ),previous_decade = lag(avg_per_country), change_start = if_else( (avg_per_country)>=0, round((avg_per_country- first(avg_per_country))/ first(avg_per_country)  * 100   , 2), round((first(avg_per_country)-avg_per_country )/ first(avg_per_country)  * 100   , 2) ) , start = first(avg_per_country)   )  %>%
   replace(is.na(.), 0)  %>% ungroup() %>% filter(decade>1840)
  
  avg_pct_change <- by_country %>% group_by(decade) %>% summarise(avg_pct_change= mean(pct_change))
