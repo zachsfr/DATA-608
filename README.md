@@ -2,5 +2,5 @@
 
 Global Warming App
 
-Can viewed from this link: https://global-temp-changes.herokuapp.com/
+Can be viewed from this link: https://global-temp-changes.herokuapp.com/
 
